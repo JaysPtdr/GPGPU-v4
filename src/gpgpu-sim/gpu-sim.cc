@@ -1068,6 +1068,7 @@ void gpgpu_sim::print_stats() {
         "----------\n");
     icnt_display_stats(); //#JPGPU
     icnt_display_overall_stats();
+    printf("IIT is not a Joke\n");
     printf(
         "----------------------------END-of-Interconnect-DETAILS---------------"
         "----------\n");
